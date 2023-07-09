@@ -10,4 +10,4 @@ function error404() {
     </Def>
   );
 }
-module.exports= error404
+module.exports = error404;
