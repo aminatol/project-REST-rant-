@@ -18,7 +18,7 @@ function Def(html) {
         <nav>
           <ul>
             <li>
-              <a href="/">Home</a>
+              <a href="/">REST-Rant</a>
             </li>
             <li>
               <a href="/places">Places</a>

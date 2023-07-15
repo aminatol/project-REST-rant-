@@ -7,16 +7,10 @@ function home() {
       <main>
         <h1>HOME</h1>
         <div>
-          <img src="/images/platter.jpg" alt="meat platter" />
+          <img src="/images/chia-fruit-drink.jpg" alt="Chia Fruit Shake" />
           <div>
-            Photo by{" "}
-            <a href="https://unsplash.com/@victoriakosmo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-              Victoria Shes
-            </a>{" "}
-            on{" "}
-            <a href="https://unsplash.com/images/food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-              Unsplash
-            </a>
+            Photo by <a href="AUTHOR_LINK">Brenda Godinez</a> on{" "}
+            <a href="UNSPLASH_LINK">Unsplash</a>
           </div>
         </div>
         <a href="/places">
