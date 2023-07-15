@@ -14,8 +14,14 @@ app.use("/places", require("./controllers/places"));
 app.use(express.urlencoded({ extended: true }));
 
 
+
+
 app.get("/", (req, res) => {
   res.render("home");
+});
+
+app.get("/edit/:id", (req, res) => {
+  res.render("edit");
 });
 
 app.get("*", (req, res) => {
