@@ -1,5 +1,5 @@
-const React= require('react')
-const Def= require('../default.jsx')
+const React = require("react");
+const Def = require("../default.jsx");
 
 function edit_form() {
   return (
@@ -42,4 +42,4 @@ function edit_form() {
   );
 }
 
-module.export= edit_form
+module.export = edit_form;

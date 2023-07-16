@@ -29,4 +29,4 @@ function index(data) {
 
 
 
-module.exports = places;
+module.exports = index;
